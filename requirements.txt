@@ -1,0 +1,4 @@
+numpy >= 1.14
+h5py
+opencv-python
+wget
